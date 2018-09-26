@@ -1,2 +1,2 @@
 # Kaggle_Challenges
-Taking a shot at some of the best data set challenges available
+Taking a shot at some of the best data science challenges available
